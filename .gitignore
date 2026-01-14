@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# env files
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+backend/venv/
+
+# Backend generated assets
+backend/storage/
+backend/voice_data/
+backend/pretrained_models/
+
+# Data exports and report assets
+data/
+figures/
+Final Project Report.pdf
+Final Project Report.docx
+Picture 1.jpg
+methododlogy

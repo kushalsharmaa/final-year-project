@@ -1,0 +1,13 @@
+Flask
+flask-cors
+cryptography
+numpy
+torch
+torchaudio
+speechbrain
+firebase-admin
+google-cloud-firestore
+faster-whisper
+jiwer
+python-dotenv
+openai
